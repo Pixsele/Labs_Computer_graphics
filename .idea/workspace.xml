@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8525d2b7-2b89-4fdd-9d5e-3089000e573f" name="Changes" comment="Lab1" />
+    <list default="true" id="8525d2b7-2b89-4fdd-9d5e-3089000e573f" name="Changes" comment="Lab1FIX">
+      <change afterPath="$PROJECT_DIR$/lab2/main2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/model_1.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,15 +25,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Pixsele/Labs_Computer_graphics.git",
-    "accountId": "f0d50e9e-220b-4b1e-9408-83079e80b3a0"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Pixsele&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Pixsele/Labs_Computer_graphics.git&quot;,
+    &quot;accountId&quot;: &quot;f0d50e9e-220b-4b1e-9408-83079e80b3a0&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2syelquIlI9yH1vRkTIBoR2Hx4Z" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -38,9 +49,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.main.executor": "Run",
+    "Python.main2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/kirvo/PycharmProjects/Labs_Computer_graphic/.venv",
+    "last_opened_file_path": "C:/Users/kirvo/PycharmProjects/Labs_Computer_graphic/lab2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -51,7 +64,12 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kirvo\PycharmProjects\Labs_Computer_graphic\lab2" />
       <recent name="C:\Users\kirvo\PycharmProjects\Labs_Computer_graphic\.venv" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kirvo\PycharmProjects\Labs_Computer_graphic\Lab1" />
+      <recent name="C:\Users\kirvo\PycharmProjects\Labs_Computer_graphic" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -70,7 +88,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739432396777</updated>
-      <workItem from="1739432397716" duration="7212000" />
+      <workItem from="1739432397716" duration="7921000" />
+      <workItem from="1740641863323" duration="5316000" />
     </task>
     <task id="LOCAL-00001" summary="Lab1">
       <option name="closed" value="true" />
@@ -80,7 +99,23 @@
       <option name="project" value="LOCAL" />
       <updated>1739439665483</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Lab1">
+      <option name="closed" value="true" />
+      <created>1739439781995</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1739439781995</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Lab1FIX">
+      <option name="closed" value="true" />
+      <created>1739439838854</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1739439838854</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,9 +123,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lab1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab1" />
+    <MESSAGE value="Lab1FIX" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab1FIX" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Labs_Computer_graphic$main.coverage" NAME="main Coverage Results" MODIFIED="1739439396513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+    <SUITE FILE_PATH="coverage/Labs_Computer_graphic$main2.coverage" NAME="main2 Coverage Results" MODIFIED="1740647206251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab2" />
+    <SUITE FILE_PATH="coverage/Labs_Computer_graphic$main.coverage" NAME="main Coverage Results" MODIFIED="1739439748004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

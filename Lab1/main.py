@@ -1,7 +1,6 @@
 import math
 import numpy as np
 from PIL import Image, ImageOps
-from email.mime import image
 
 img_mat = np.zeros((10000, 10000,3), np.uint8)
 img_mat[0:10000, 0:10000] = [23,23,23]
