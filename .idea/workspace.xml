@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8525d2b7-2b89-4fdd-9d5e-3089000e573f" name="Changes" comment="Lab2.2">
-      <change afterPath="$PROJECT_DIR$/lab2/12221_Cat_v1_l3.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/Cat_diffuse.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/bunny-atlas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/flog.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/texture_frog.jpg" afterDir="false" />
+    <list default="true" id="8525d2b7-2b89-4fdd-9d5e-3089000e573f" name="Changes" comment="Lab4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab2/main2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/main2.py" afterDir="false" />
     </list>
@@ -51,23 +46,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.main.executor": "Run",
-    "Python.main2.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/kirvo/PycharmProjects/Labs_Computer_graphic/lab2",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kirvo/PycharmProjects/Labs_Computer_graphic/lab2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\kirvo\PycharmProjects\Labs_Computer_graphic\lab2" />
@@ -102,7 +97,8 @@
       <workItem from="1741857156046" duration="1509000" />
       <workItem from="1742677269492" duration="2227000" />
       <workItem from="1742847080918" duration="70000" />
-      <workItem from="1743060572689" duration="7481000" />
+      <workItem from="1743060572689" duration="9299000" />
+      <workItem from="1744225187840" duration="2010000" />
     </task>
     <task id="LOCAL-00001" summary="Lab1">
       <option name="closed" value="true" />
@@ -144,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740647451184</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Lab4">
+      <option name="closed" value="true" />
+      <created>1743069865695</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1743069865696</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,10 +159,11 @@
     <MESSAGE value="Lab1FIX" />
     <MESSAGE value="Lab2" />
     <MESSAGE value="Lab2.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab2.1" />
+    <MESSAGE value="Lab4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab4" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Labs_Computer_graphic$main2.coverage" NAME="main2 Coverage Results" MODIFIED="1743067469598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab2" />
+    <SUITE FILE_PATH="coverage/Labs_Computer_graphic$main2.coverage" NAME="main2 Coverage Results" MODIFIED="1744227170608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab2" />
     <SUITE FILE_PATH="coverage/Labs_Computer_graphic$main.coverage" NAME="main Coverage Results" MODIFIED="1739439748004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
