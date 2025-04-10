@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8525d2b7-2b89-4fdd-9d5e-3089000e573f" name="Changes" comment="Lab4">
+      <change afterPath="$PROJECT_DIR$/lab2/Hamster_UV.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/Humster.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/jesus.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Labs_Computer_graphic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Labs_Computer_graphic.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/flog.obj" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/frog_1.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab2/main2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/main2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2/output2.png" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/output2.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,29 +53,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main2.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/kirvo/PycharmProjects/Labs_Computer_graphic/lab2&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main.executor": "Run",
+    "Python.main2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/user/Documents/юниверсити/computer grafics/Labs_Computer_graphics/lab2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Documents\юниверсити\computer grafics\Labs_Computer_graphics\lab2" />
       <recent name="C:\Users\kirvo\PycharmProjects\Labs_Computer_graphic\lab2" />
       <recent name="C:\Users\kirvo\PycharmProjects\Labs_Computer_graphic\.venv" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Documents\юниверсити\computer grafics\Labs_Computer_graphics\lab2" />
       <recent name="C:\Users\kirvo\PycharmProjects\Labs_Computer_graphic\lab2" />
       <recent name="C:\Users\kirvo\PycharmProjects\Labs_Computer_graphic\Lab1" />
       <recent name="C:\Users\kirvo\PycharmProjects\Labs_Computer_graphic" />
@@ -77,8 +86,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-PY-243.23654.177" />
-        <option value="bundled-python-sdk-91d3a02ef49d-43b77aa2d136-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.23654.177" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.26053.29" />
+        <option value="bundled-python-sdk-b1dbf8ef85a6-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.26053.29" />
       </set>
     </attachedChunks>
   </component>
@@ -99,6 +108,7 @@
       <workItem from="1742847080918" duration="70000" />
       <workItem from="1743060572689" duration="9299000" />
       <workItem from="1744225187840" duration="2010000" />
+      <workItem from="1744271155039" duration="9962000" />
     </task>
     <task id="LOCAL-00001" summary="Lab1">
       <option name="closed" value="true" />
@@ -163,7 +173,8 @@
     <option name="LAST_COMMIT_MESSAGE" value="Lab4" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Labs_Computer_graphic$main2.coverage" NAME="main2 Coverage Results" MODIFIED="1744227170608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab2" />
+    <SUITE FILE_PATH="coverage/Labs_Computer_graphics$main2.coverage" NAME="main2 Coverage Results" MODIFIED="1744281134907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab2" />
     <SUITE FILE_PATH="coverage/Labs_Computer_graphic$main.coverage" NAME="main Coverage Results" MODIFIED="1739439748004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Labs_Computer_graphic$main2.coverage" NAME="main2 Coverage Results" MODIFIED="1744227170608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab2" />
   </component>
 </project>
